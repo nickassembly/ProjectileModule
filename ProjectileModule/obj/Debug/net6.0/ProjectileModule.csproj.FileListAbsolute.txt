@@ -1,0 +1,15 @@
+D:\source\repos\Dotnet\ProjectileModule\ProjectileModule\bin\Debug\net6.0\ProjectileModule.exe
+D:\source\repos\Dotnet\ProjectileModule\ProjectileModule\bin\Debug\net6.0\ProjectileModule.deps.json
+D:\source\repos\Dotnet\ProjectileModule\ProjectileModule\bin\Debug\net6.0\ProjectileModule.runtimeconfig.json
+D:\source\repos\Dotnet\ProjectileModule\ProjectileModule\bin\Debug\net6.0\ProjectileModule.dll
+D:\source\repos\Dotnet\ProjectileModule\ProjectileModule\bin\Debug\net6.0\ref\ProjectileModule.dll
+D:\source\repos\Dotnet\ProjectileModule\ProjectileModule\bin\Debug\net6.0\ProjectileModule.pdb
+D:\source\repos\Dotnet\ProjectileModule\ProjectileModule\obj\Debug\net6.0\ProjectileModule.csproj.AssemblyReference.cache
+D:\source\repos\Dotnet\ProjectileModule\ProjectileModule\obj\Debug\net6.0\ProjectileModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Dotnet\ProjectileModule\ProjectileModule\obj\Debug\net6.0\ProjectileModule.AssemblyInfoInputs.cache
+D:\source\repos\Dotnet\ProjectileModule\ProjectileModule\obj\Debug\net6.0\ProjectileModule.AssemblyInfo.cs
+D:\source\repos\Dotnet\ProjectileModule\ProjectileModule\obj\Debug\net6.0\ProjectileModule.csproj.CoreCompileInputs.cache
+D:\source\repos\Dotnet\ProjectileModule\ProjectileModule\obj\Debug\net6.0\ProjectileModule.dll
+D:\source\repos\Dotnet\ProjectileModule\ProjectileModule\obj\Debug\net6.0\ref\ProjectileModule.dll
+D:\source\repos\Dotnet\ProjectileModule\ProjectileModule\obj\Debug\net6.0\ProjectileModule.pdb
+D:\source\repos\Dotnet\ProjectileModule\ProjectileModule\obj\Debug\net6.0\ProjectileModule.genruntimeconfig.cache
