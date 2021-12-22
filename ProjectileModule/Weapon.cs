@@ -22,5 +22,10 @@ namespace ProjectileModule
 
             return CurrentAmmo;
         }
+
+        public void FireProjectile(Projectile projectile)
+        {
+            Console.WriteLine($"Fired --> ID: {projectile.ProjectileId} Projectile Name: {projectile.ProjectileName}");
+        }
     }
 }

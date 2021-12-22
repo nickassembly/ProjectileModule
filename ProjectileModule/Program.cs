@@ -19,6 +19,8 @@ revolver.CurrentAmmo.ForEach(
     bullet => Console.WriteLine($"ID: {bullet.ProjectileId} Projectile Name: {bullet.ProjectileName}")
     );
 
-// TODO Fire weapon
+var projectileToFireNext = revolver.CurrentAmmo.First();
+
+revolver.FireProjectile(projectileToFireNext); // fire projectile, but track same bullet
 
 

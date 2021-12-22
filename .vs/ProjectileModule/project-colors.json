@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d49dcb0a-19f4-4b63-90c1-43548bd725fa": {
+      "ProjectGuid": "d49dcb0a-19f4-4b63-90c1-43548bd725fa",
+      "DisplayName": "ProjectileModule",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
