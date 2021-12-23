@@ -19,8 +19,19 @@ revolver.CurrentAmmo.ForEach(
     bullet => Console.WriteLine($"ID: {bullet.ProjectileId} Projectile Name: {bullet.ProjectileName}")
     );
 
-var projectileToFireNext = revolver.CurrentAmmo.First();
+// Error here "collection was reevaluated"
+//foreach (var ammo in revolver.CurrentAmmo)
+//{
+//    revolver.FireProjectile(ammo);
+//}
 
-revolver.FireProjectile(projectileToFireNext); // fire projectile, but track same bullet
+for (int i = 0; i < 50; i++)
+{
+    revolver.FireProjectile(revolver.CurrentAmmo.First());
+}
+
+
+
+
 
 

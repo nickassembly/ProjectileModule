@@ -26,6 +26,8 @@ namespace ProjectileModule
         public void FireProjectile(Projectile projectile)
         {
             Console.WriteLine($"Fired --> ID: {projectile.ProjectileId} Projectile Name: {projectile.ProjectileName}");
+            CurrentAmmo.Remove(projectile);
+            CurrentAmmo.Add(projectile); // is adding creating an instantiation of a new object? 
         }
     }
 }
